@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f8b88bb5ce85900489afbeef62530a7e
+timeCreated: 1486043568
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gabia Solmee
+  fontNames:
+  - Gabia Solmee
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

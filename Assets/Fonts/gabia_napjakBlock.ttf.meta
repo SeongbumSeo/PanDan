@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ff5a02b7424d0ba4c9f0d7b3c508b94f
+timeCreated: 1486043569
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NapjakBlock
+  fontNames:
+  - NapjakBlock
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
